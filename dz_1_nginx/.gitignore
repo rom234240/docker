@@ -1,0 +1,29 @@
+# Docker
+Dockerfile
+.dockerignore
+
+# Логи
+*.log
+
+# Временные файлы
+*.tmp
+*.temp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ОС
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+env/
